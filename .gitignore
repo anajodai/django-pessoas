@@ -1,0 +1,8 @@
+.vscode
+ambiente
+db.sqlite3
+Include
+Lib
+Scripts
+pyvenv.cfg
+__pycache__
